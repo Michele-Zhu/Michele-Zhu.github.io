@@ -17,7 +17,7 @@ const categories = {
     { icon: 'jupyter', isClickable: false },
     { icon: 'tensorflow', iconType: 'original', isClickable: false },
     { icon: 'pytorch', isClickable: false },
-    { icon: 'keras', isClickable: false},
+    { icon: 'keras', isClickable: false },
     { icon: 'scikitlearn', isClickable: false },
     { icon: 'pandas', isClickable: false },
     { icon: 'django', isClickable: false },
@@ -41,7 +41,7 @@ const categories = {
     { icon: 'powershell', isClickable: false },
     { icon: 'linux', isClickable: false },
     { icon: 'bash', isClickable: false },
-    { icon: 'blender', isClickable: false },
+    { icon: 'blender', iconType: 'original', isClickable: false },
     // doc formats
     { icon: 'json', hint: 'JSON', isClickable: false },
     { icon: 'yaml', hint: 'YAML', isClickable: false },
